@@ -1,0 +1,9 @@
+{
+	"name": "dmddmesh-lz-rgmzanw4njan7eeadf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a5c2b9a-351a-4e72-bdde-85fd5be0a904",
+		"tenantId": "8191cbe4-24d8-4e06-b32a-8863666fedbb"
+	}
+}
