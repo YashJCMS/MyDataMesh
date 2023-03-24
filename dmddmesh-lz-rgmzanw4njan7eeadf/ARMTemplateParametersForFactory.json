@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dmddmesh-lz-rgmzanw4njan7eeadf"
+		},
+		"AzureDataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_properties_typeProperties_url": {
+			"value": "https://dmdaccelerpc3q3p7gqdk5e.dfs.core.windows.net/"
+		}
+	}
+}
